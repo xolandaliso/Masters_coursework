@@ -1,0 +1,10 @@
+HOW THE JUPYTER NOTEBOOK BE COMPILED
+
+The jupyter notebook named 'Final_Project.ipynb' imports two python files
+The variables.py and the functions.py file
+variables.py file encloses all the initial and observational parameters
+function.py file encloses all the functions that were used for this work.
+
+The Jupyter Notebook (Final_Project) must be on the same folder with these two files for it to
+compile with out errors.
+
